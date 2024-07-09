@@ -64,3 +64,11 @@ This will start the simulation and display a GUI named `joint_state_publisher` w
 ![photo](https://img001.prntscr.com/file/img001/UmW2yp98T7qEysZKRU86uw.png)
 
 You can adjust the joint angles here and reset them to their initial values using the center button.
+### 5 - Controll robot arm using moveit
+
+```bash
+roslaunch moveit_pkg demo.launch
+```
+Hit on Plan & Execute
+![photo](https://img001.prntscr.com/file/img001/MhdgOIJZR32Fy728ZG5LOg.png)
+![photo](https://img001.prntscr.com/file/img001/XTg0HQ_HTA60UqIkCKAH8Q.png)
